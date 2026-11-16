@@ -39,5 +39,8 @@
     "remotion": "^4.0.540",
     "three": "^0.187.0",
     "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
   }
 }
